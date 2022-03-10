@@ -1,5 +1,6 @@
 #!/bin/bash
-# CREATE FILES # touch path; echo "" >> path; wait;
+# CREATE FILES
+# touch path; echo "" >> path; wait;
 
 touch "CHANGELOG.md";
 echo "# CHANGELOG" >> CHANGELOG.md; wait;
