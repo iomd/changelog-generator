@@ -1,0 +1,2 @@
+- add conditions of the project version's numbering. if 1.0.0 then the next version will be 1.0.1 and so on.
+
